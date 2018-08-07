@@ -7,4 +7,4 @@
 <a href="https://kristenbrowncodes.github.io/Pongish/">Pongish</a> 
 
 
-<a href="https://kbrow155.wixsite.com/portfolio/">Design Portfolio</a>
+<a href="https://kbrown155.wixsite.com/portfolio/">Design Portfolio</a>
